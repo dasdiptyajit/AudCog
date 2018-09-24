@@ -21,7 +21,7 @@ def source_space(subject_ids, subjects_dir= None, spacing='ico5', n_jobs=2, src_
      Routine to generate source space
 
          Parameters
-         ----------
+         -------------
          subject_ids: list of strings
              List of subjects ids
          subjects_dir: string
